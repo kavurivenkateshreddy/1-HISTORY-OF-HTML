@@ -1,0 +1,38 @@
+<html>
+<head>
+<title> History of HTML </title>
+</head>
+<body>
+<h1><center><font color="red">HTML</font><center></h1>
+<p>--> HTML means Hyper Text Markep Language </p>
+<p>--> HTML is created by 'TIM BERNER-LEE' in 1991 first version of HTML1.0</p>
+<p>--> But the stranded version was HTML2.0</P>
+<P><h3><font color="blue">HTML Released Years</font><h3></p>
+<p>--> HTML1  =  1993</P>
+<p>--> HTML2  =  1995</P>
+<p>--> HTML3  =  1997</P>
+<p>--> HTML4  =  1997</P>
+<p>--> HTML5  =  2014</P>
+<P><h3><font color="red">WHAT IS HTLM ?</font></h3></p>
+<p>--> it is used to desine the web page by using the markep language</P>
+<p>--> HTML is the combination of Hyper Text and Markep Language </P>
+<P><h3><font color="blue">HYPER TEXT</font></h3></p>
+<p>--> HyperText simply means "Text within Text." A text has a link within it, is a hypertext.<br>--> Whenever you click on a link which brings you to a new webpage, you have clicked on a hypertext.<br>--> HyperText is a way to link two or more web pages (HTML documents) with each other.</P>
+<P><h3><font color="blue">MARKUP LANGUAGE </font></h3></p>
+<P>--> A markup language is a computer language that is used to apply layout and formatting conventions to a text document.<br>-->  Markup language makes text more interactive and dynamic.<br>--> It can turn text into images, tables, links, etc.
+
+<P><h3><font color="red">WHAT IS COMMENT ?</font></h3></p>
+<P>---> Comment is used to <b>not to execute</b> the code or program
+<p>SYNTAX = <h4><!--statement--></p>
+
+<P><h3><font color="red">WHAT TAGS COMMENT ?</font></h3></p>
+<P>---> in predefined words TAGS meals which is written in between left angular(<) and right angular(>) brackets is known as TAGS</P>
+<P> there are two types of tags </p>
+<P><h3><font color="blue">CONTAINER (OR) PAIR TAG</font></h3></p>
+<p>---> here contact tag by having both starting tank and ending tag  (EX : <TAG>  </TAG> 
+<P><h3><font color="blue">END (OR) SINGLE TAG</font></h3></p>
+<P>---> Here the end tag means it has only starting tag only          (EX : <TAG>
+
+</body>
+
+</html>
