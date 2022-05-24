@@ -81,7 +81,7 @@
 <P>Here---> WELCOME TO HTML <b> IS THE STATEMTNT</b></p>
 <P><h3><font color="blue">2.ATTRIBUTES </font></h3></p>
 <P>---> the active duty consist of attribute name and attribute value in the opening tags
-<p> EXAMPLES : (h1 class=primery)</P>
+<p> EXAMPLES : (h1 class=primery></P>
 <p>Here---> CLASS IS <b>Attribute Name</b><br>Here--->PRIMERY IS <b>Attribute Value</b></p>
 <p><b>---> finally here ELEMENTS means the combination of (starting Tag Attribute Name=Attribute Value>statement(closing Tag></P>
 </body>
