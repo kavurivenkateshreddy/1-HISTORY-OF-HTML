@@ -23,16 +23,66 @@
 
 <P><h3><font color="red">WHAT IS COMMENT ?</font></h3></p>
 <P>---> Comment is used to <b>not to execute</b> the code or program
-<p>SYNTAX = <h4><!--statement--></p>
+<p>SYNTAX = <h4>(!--statement--)</p>
 
-<P><h3><font color="red">WHAT TAGS COMMENT ?</font></h3></p>
+<P><h3><font color="red">WHAT IS TAGS ?</font></h3></p>
 <P>---> in predefined words TAGS meals which is written in between left angular(<) and right angular(>) brackets is known as TAGS</P>
 <P> there are two types of tags </p>
-<P><h3><font color="blue">CONTAINER (OR) PAIR TAG</font></h3></p>
-<p>---> here contact tag by having both starting tank and ending tag  (EX : <TAG>  </TAG> 
-<P><h3><font color="blue">END (OR) SINGLE TAG</font></h3></p>
-<P>---> Here the end tag means it has only starting tag only          (EX : <TAG>
+<P><h3><font color="blue">1.CONTAINER (OR) PAIR TAG</font></h3></p>
+<p>here contact tag by having both starting tank and ending tag  (EX : (TAG>  </TAG) </P>)
+<P><h3><font color="blue">2.END (OR) SINGLE TAG</font></h3></p>
+<P>Here the end tag means it has only starting tag only          (EX : (TAG)</P>
 
+<P><h3><font color="red">WHAT ARE COMPUYER LANGUAGES' ?</font></h3></p>
+<P>--> There are two types of programming languages
+<P><h3><font color="blue">1.PROGRAMMING LANGUAGE</font></h3></p>
+<P>---> By using programming language we can develop a program<br>---> in the programming language to develop software we use mostly one programming language</P>
+<p> EXAMPLES : <ol type="1">
+<li>C   ---> structure oriented language </li>
+<li>C++ ---> object oriented language </li>
+<li>JAVA---> pure object language</li>
+</ol>
+<P><h3><font color="blue">2.SCRIPTING LANGUAGE</font></h3></p>
+<P>---> by using scripting languages we can create web pages<br>---> to create a web page we will use more than one scripting language<br>---> this scripting language can easily understand by the common man
+<p> EXAMPLES : <ol type="1">
+<li>HTML</li>
+<li>CSS</li>
+<li>JAVA--->JAVA SCRICP</li>
+<li>JAVA--->.VB SCRIPT</li>
+</ol>
+
+<P><h3><font color="red">WHAT IS WEB SITE ?</font></h3></p>
+<P>---> website is the collection of web pages<br>---> there are three types of <b>web pages</b>
+<P><h3><font color="blue">1.STATIC WEBPAGE</font></h3></p>
+<p>---> in static webpage the quotes are same for the header,footer,sidebar,image slider,menubar<br>---> so characters are updates in static webpage is not easy and it is time taking process
+<p> EXAMPLES : <ol type="1">
+<li>IRCTC</li>
+<li>INDIAN RAILWAY </li>
+<li>.NET BANKING</li>
+</ol>
+<P><h3><font color="blue">2.DYNAMIC WEBPAGE</font></h3></p>
+<P>---> in dynamic web page the codes are different for the header,footer,sidebar,image slider,manebar<br>---> so changes and updates are very easy and it will take less time when compare to static webpage.
+<p> EXAMPLES : <ol type="1">
+<li>ALL SHOPING SITES</li>
+<li>NEWS WEBSITES </li>
+<li>SONGS DOWNLOADS </li>
+</ol>
+<P><h3><font color="blue">2.SERVER WEB PAGE</font></h3></p>
+<P>---> our data is stored in the server page<br>---> for example if it logging into Facebook all information is stored in the server page
+
+<P><h3><font color="red">WHAT IS ELEMENTS ?</font></h3></p>
+<P>---> HTML elements means the collection of the start and end tax with the content inside in between them
+<p> EXAMPLES : (TAG> (/TAG></P>
+<P>---> HTML elements are also called as HTML tags<br>---> by using this tax we write the quotes<br>---> the tax represented like these (< >)
+<p> EXAMPLES :STARTING TAG  (TAG>) ENDING TAG (/TAG>)</P>
+<P><h3><font color="blue">1.STATEMENT</font></h3></p>
+<P>---> the content that was in the middle of opening and closing tags is known as statement
+<p> EXAMPLES : (TAG>)WELCOME TO HTML (/TAG></P>
+<P>Here---> WELCOME TO HTML <b> IS THE STATEMTNT</b></p>
+<P><h3><font color="blue">2.ATTRIBUTES </font></h3></p>
+<P>---> the active duty consist of attribute name and attribute value in the opening tags
+<p> EXAMPLES : (h1 class=primery)</P>
+<p>Here---> CLASS IS <b>Attribute Name</b><br>Here--->PRIMERY IS <b>Attribute Value</b></p>
+<p><b>---> finally here ELEMENTS means the combination of (starting Tag Attribute Name=Attribute Value>statement(closing Tag></P>
 </body>
-
 </html>
